@@ -8,6 +8,6 @@ To run the programs in this repository, you will need a C compiler such as GCC (
 ### Projects
 
 The projects in this repository are organized by topic and cover a range of low-level programming concepts. Some of the projects include:
-- 0x00. C - Hello, World: introduction to C programming with a simple "Hello, World!" program.
+- [0x00. C - Hello, World](0x00-hello_world)
 - ...
 
