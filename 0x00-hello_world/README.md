@@ -53,5 +53,8 @@ C was invented by Dennis Ritchie at Bell Labs in the early 1970s. Ritchie was al
 
 ___
 
-### Files
-- [0-preprocessor](../0-preprocessor)
+
+| files                                   | Description                          | CMD   |                                Flags                                  |
+| --------------------------------------- |:------------------------------------:|:-----:| :---------------------------------------------------------------------|
+| [0-preprocessor](../0-preprocessor)     | save pre-processor into another file |  gcc  | -E : instruct the compiler to perform only the preprocessing step <br>-o : specify the name of the output file                               
+| 1-compiler| | |
