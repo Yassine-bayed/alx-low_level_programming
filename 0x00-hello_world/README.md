@@ -50,6 +50,8 @@ C was invented by Dennis Ritchie at Bell Labs in the early 1970s. Ritchie was al
 - To find the right header to include in your source code when using a standard library function, you can consult the documentation for that function or library. 
 <br>- Typically, the required header file will be listed in the documentation.
 </details>
-***
+
+___
+
 ### Files
 - [0-preprocessor](../0-preprocessor)
