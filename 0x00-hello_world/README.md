@@ -1,3 +1,4 @@
+## General Knowledge
 <details>
 <summary> Why C programming is awesome?</summary>
 
@@ -53,6 +54,7 @@ C was invented by Dennis Ritchie at Bell Labs in the early 1970s. Ritchie was al
 
 ___
 
+## Tasks
 
 | files                                   | Description                          | CMD   |                                Flags                                  |
 | --------------------------------------- |:------------------------------------:|:-----:| :---------------------------------------------------------------------|
