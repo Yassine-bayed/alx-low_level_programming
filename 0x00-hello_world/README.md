@@ -11,7 +11,9 @@
 </details>
 <details>
 <summary> C History </summary>
-C was invented by Dennis Ritchie at Bell Labs in the early 1970s. Ritchie was also one of the co-creators of the Unix operating system.
+
+ <br>&nbsp;&nbsp;&nbsp; &nbsp;  **C** was invented by **Dennis Ritchie** at Bell Labs in the early 1970s. Ritchie was also one of the co-creators of the Unix operating system.
+
 </details>
 <details>
 <summary> Key figures in C programming </summary>
@@ -20,9 +22,9 @@ C was invented by Dennis Ritchie at Bell Labs in the early 1970s. Ritchie was al
 </details>
 <details>
 <summary> Compiling C code </summary>
-*-* When you type `gcc main.c` in a terminal window, the GNU C Compiler (gcc) will compile the source code in the file "main.c" and create an executable file with the same name.
-<br>*-* The default program name when compiling with gcc is "a.out".
-<br>*-* To compile a C program using gcc, you can use the command `gcc source_file.c -o output_file`. This will create an executable file named "output_file" from the source code in "source_file.c".
+- When you type `gcc main.c` in a terminal window, the GNU C Compiler (gcc) will compile the source code in the file "main.c" and create an executable file with the same name.
+<br>- The default program name when compiling with gcc is "a.out".
+<br>- To compile a C program using gcc, you can use the command `gcc source_file.c -o output_file`. This will create an executable file named "output_file" from the source code in "source_file.c".
 
 </details>
 <details>
