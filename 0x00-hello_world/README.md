@@ -2,7 +2,7 @@
 <details>
 <summary> Why C programming is awesome?</summary>
 
- #### **C programming is awesome for several reasons:**
+  **C programming is awesome for several reasons:**
 
 1. Portability: C code can be easily ported to different platforms and operating systems without any modifications.
 2. Efficiency: C is a low-level language that can be compiled into efficient machine code, making it ideal for system programming and other performance-critical applications.
