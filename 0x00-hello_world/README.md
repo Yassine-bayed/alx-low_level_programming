@@ -57,6 +57,6 @@ ___
 ## Tasks
 
 | files                                   | Description                          | CMD   |                                Flags                                  |
-| --------------------------------------- |:------------------------------------:|:-----:| :---------------------------------------------------------------------|
-| [0-preprocessor](../0-preprocessor)     | save pre-processor into another file |  gcc  | -E : instruct the compiler to perform only the preprocessing step <br>-o : specify the name of the output file                               
-| [1-compiler](../1-compiler)| save pre-processor into .o file same name| gcc|-o : specify the name of the output file
+| --------------------------------------- |:------------------------------------|:-----:| :---------------------------------------------------------------------|
+| [0-preprocessor](0-preprocessor)     | save pre-processor into another file |  gcc  | -E : instruct the compiler to perform only the preprocessing step <br>-o : specify the name of the output file                               
+| [1-compiler](1-compiler)| save pre-processor into .o file same name| gcc|-o : specify the name of the output file
