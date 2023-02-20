@@ -43,8 +43,8 @@ C was invented by Dennis Ritchie at Bell Labs in the early 1970s. Ritchie was al
 </details>
 <details>
 <summary> Official C Coding Style </summary>
-- The official C coding style is defined by the "[C Programming Language](http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Programming_Language_%282nd_Edition_Ritchie_Kernighan%29.pdf)" book, which was co-authored by Brian Kernighan and Dennis Ritchie.
-<br>- To check your code against this style, you can use the [`betty-style`](https://github.com/holbertonschool/Betty) tool.
+- The official C coding style is defined by the C Programming Language book, which was co-authored by Brian Kernighan and Dennis Ritchie.
+<br>- To check your code against this style, you can use the `betty-style` tool.
 </details>
 <details>
 <summary> Including Header Files </summary>
