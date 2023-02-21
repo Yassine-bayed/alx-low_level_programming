@@ -3,6 +3,8 @@
 /**
  * _print_alphabet - writes the alphabets from a to z to stdout
  *
+ * Description : using ascii table to prints
+ *
  * Return: Always 0.
  */
 void print_alphabet(void)
